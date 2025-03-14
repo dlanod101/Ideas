@@ -1,2 +1,3 @@
 # Ideas
-Intro to Repo
+## Intro to Repo
+Hello this is my repo.
